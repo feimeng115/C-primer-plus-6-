@@ -1,2 +1,2 @@
-# C-primer-plus-6-
+# CPP-Primer-Plus-6
 study
